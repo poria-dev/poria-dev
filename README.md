@@ -4,3 +4,4 @@
 </div>
 <h3>My Skills :</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,github,tailwind,vsc" alt="languages"/>
+</hr>
