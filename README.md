@@ -11,7 +11,7 @@
 <div>
 <h3>🚀 About Me</h3>
 <ul>
-  <li width='250px'> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
+  <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
   
   <li> 🌱 I’m currently learning [ React ]</li>
   
