@@ -5,8 +5,11 @@
 <h3>My Skills :</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,github,tailwind,vsc" alt="languages"/>
 <hr/>
-*🚀 About Me*
-- 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.
-- 🌱 I’m currently learning [ React ]
-- 💬 Ask me about Frontend basics, I'm happy to help!
-- 📫 How to reach me:[pooriarezaee.dev@gmail.com]
+<h2>🚀 About Me</h2>
+<ul>
+  <li>- 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
+  <li>- 🌱 I’m currently learning [ React ]</li>
+  <li>- 💬 Ask me about Frontend basics, I'm happy to help!</li>
+  <li>- 📫 How to reach me:<a href="pooriarezaee.dev@gmail.com">pooriarezaee.dev@gmail.com</a>
+  </li>
+</ul>
