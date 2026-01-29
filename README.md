@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div>
-  <h2>My Skills :</h2>
+  <h2>My Skills </h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,github,tailwind,vsc" alt="languages"/>
 </div>
 <hr/>
