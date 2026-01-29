@@ -9,7 +9,7 @@
 </div>
 <hr/>
 <div>
-<h2>🚀 About Me</h2>
+<h2 font-size='30'>🚀 About Me</h2>
 <ul>
   <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
   <hr/>
