@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./image.jpg" alt="poster" width="100px"/>
-<h2>I am Pooria Rezaee! People call me Pori :)</h2>
+<h1>I am Pooria Rezaee! People call me Pori :)</h1>
 </div>
 <br/>
 <div>
