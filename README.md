@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./grok_image_xmxwlfv-1.jpg" alt="poster" width="100px"/>
+  <img src="./image.jpg" alt="poster" width="100px"/>
 <h2>I am Pooria Rezaee! People call me Pori :)</h2>
 </div>
 <h3>My Skills :</h3>
