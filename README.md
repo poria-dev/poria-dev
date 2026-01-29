@@ -13,13 +13,13 @@
 <ul>
   <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
   
-  <li> 🌱 I’m currently learning [ React ]</li>
+  <li> 🌱 I’m currently learning  React </li>
   
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
 
   <li> 
      📫 How to reach me:
-      [ pooriarezaee.dev@gmail.com ]
+       pooriarezaee.dev@gmail.com 
   </li>
 </ul>
 </div>
