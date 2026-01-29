@@ -3,7 +3,7 @@
 <h2>I am Pooria Rezaee! People call me Pori :)</h2>
 </div>
 <br/>
-<div aling='center'>
+<div align='center'>
   <h3>My Skills :</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,github,tailwind,vsc" alt="languages"/>
 </div>
