@@ -8,8 +8,11 @@
 <h2>🚀 About Me</h2>
 <ul>
   <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
+  <hr/>
   <li> 🌱 I’m currently learning [ React ]</li>
+  <hr/>
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
+<hr/>
   <li> 📫 How to reach me:pooriarezaee.dev@gmail.com
   </li>
 </ul>
