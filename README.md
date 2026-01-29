@@ -5,7 +5,7 @@
 <br/>
 <div>
   <h2>My Skills </h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,github,tailwind,vsc" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,github,,vsc," alt="languages"/>
 </div>
 <hr/>
 <div>
