@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image.jpg" alt="poster" width="100px"/>
+  <img src="./image.jpg" alt="poster" width="100px" border-radius: "20px"/>
 <h2>I am Pooria Rezaee! People call me Pori :)</h2>
 </div>
 <h3>My Skills :</h3>
