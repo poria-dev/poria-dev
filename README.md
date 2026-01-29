@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./grok_image_xmxwlfv-1.jpg" alt="poster"/>
+  <img src="./grok_image_xmxwlfv-1.jpg" alt="poster" width="200px"/>
 <h2>Poria Rezaee</h2>
 </div>
 
