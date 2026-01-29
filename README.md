@@ -6,6 +6,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,github,tailwind,vsc" alt="languages"/>
 <hr/>
 <h2>🚀 About Me</h2>
+<br/>
 <ul>
   <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
   <hr/>
@@ -13,6 +14,8 @@
   <hr/>
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
 <hr/>
-  <li> 📫 How to reach me:pooriarezaee.dev@gmail.com
+  <li> 
+     📫 How to reach me:
+      [pooriarezaee.dev@gmail.com]
   </li>
 </ul>
