@@ -23,8 +23,4 @@
   </li>
 </ul>
 </div>
-<div>
-  <h2>dawffefef
-    <p>fewfewqfqwfwqf</p>
-  </h2>
-</div>
+
