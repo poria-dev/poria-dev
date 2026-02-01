@@ -73,3 +73,5 @@
 <p align="center">
 <font color="#0e75b6"><b>Made with 💻 and ☕ by Poria</b></font>
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
