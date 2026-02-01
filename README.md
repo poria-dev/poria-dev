@@ -69,7 +69,6 @@ markdown
 </p
 
 
-<p>https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
@@ -78,3 +77,4 @@ markdown
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=40" />
 </p
+
