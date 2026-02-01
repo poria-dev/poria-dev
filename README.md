@@ -37,6 +37,10 @@
   </li>
 </ul>
 </div>
+
+[![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
+[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/yourusername)
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230A66C2&size=32)](https://linkedin.com/in/yourusername)
 <br/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=console.log(%22See+you+next+commit!%22);UI%2FUX+is+the+soul+of+code;Keep+building+the+future...">
@@ -47,15 +51,6 @@
 <br>
 <b>Thanks for visiting!</b>
 </
-
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Front-End%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-
-‌
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Poria%20Front-end%20Dev&fontSize=50" />
 </p
