@@ -14,7 +14,7 @@
 <ul>
   <li> 🔭 I’m currently working on improving my HTML, CSS, and JavaScript skills.</li>
   
-  <li> 🌱 I’m currently learning . React .</li>
+  <li> 🌱 I’m currently learning . JavaScript .</li>
   
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
 
