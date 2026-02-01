@@ -39,7 +39,7 @@
 </div>
 
 [![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/yourusername)
+[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/po.or.ia1_0)
 [![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230A66C2&size=32)](https://linkedin.com/in/yourusername)
 <br/>
 <p align="center">
