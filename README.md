@@ -51,27 +51,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=10&section=footer" width="60%" />
 </p>
 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1d00d6c9.gif" width="100%" />
-</p>
-‌
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=100&section=footer&text=Turning%20Ideas%20Into%20Reality&fontSize=25" />
-</p>
-
-
-<br />
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</p>
-‌
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,figma" />
-</p>
 ‌
 <p align="center">
 <font color="#0e75b6"><b>Made with 💻 and ☕ by Poria</b></font>
 </p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
