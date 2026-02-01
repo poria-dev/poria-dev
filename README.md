@@ -6,16 +6,20 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p
 <div align="center">
-<h1>I am Pooria Rezaee! People call me Pori :)   <span>💛👨🏼‍💻</span></h1>
+<h1>I am Pooria Rezaee! People call me Pori :)</h1>
 
 </div>
 <br/>
 <div>
   <h2>My Skills </h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,github,,vsc," alt="languages"/>
-  <p align="left">
+    <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Building+with+HTML5;Styling+with+CSS3;Coding+in+JavaScript;Mastering+React.js">
 </p>
+  <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
+</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,github,,vsc," alt="languages"/>
+  <br/>
 </div>
 <hr/>
 <div>
@@ -44,17 +48,13 @@
 <b>Thanks for visiting!</b>
 </
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
-</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Front-End%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
-</p>
+
 ‌
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Poria%20Front-end%20Dev&fontSize=50" />
