@@ -53,3 +53,13 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Front-End%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+‌
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+
