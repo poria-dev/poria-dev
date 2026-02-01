@@ -66,9 +66,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Poria%20Front-end%20Dev&fontSize=50" />
 </p
 
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p
-
