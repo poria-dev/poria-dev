@@ -20,7 +20,7 @@
 
   <li> 
      📫 How to reach me:
-     .  pooriarezaee.dev@gmail.com  . 
+     .  pooriarezaee.dev@gmail.com  .  
   </li>
 </ul>
 </div>
