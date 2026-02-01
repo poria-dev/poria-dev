@@ -43,12 +43,6 @@
 <br>
 <b>Thanks for visiting!</b>
 </
-*🛠 Technologies I Work With:*
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
-</a>
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
