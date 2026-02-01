@@ -50,3 +50,6 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
+</p>
