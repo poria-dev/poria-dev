@@ -30,17 +30,7 @@
   </li>
 </ul>
 </div>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257493-571aa1ed-29e2-4113-942f-871d3c1d9310.gif" width="150">
-<br>
-<b>Thanks for visiting!</b>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
-<br>
-<sub>Last updated on: 2026</sub>
-</p>
+p>
 
 
 <p align="center">
@@ -52,7 +42,11 @@
 </p>
 
 ‌
-<p align="center">
-<font color="#0e75b6"><b>Made with 💻 and ☕ by Poria</b></font>
-</p>
 (https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257493-571aa1ed-29e2-4113-942f-871d3c1d9310.gif" width="150">
+<br>
+<b>Thanks for visiting!</b>
+</
