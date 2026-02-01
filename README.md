@@ -59,3 +59,17 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=100&section=footer&text=Turning%20Ideas%20Into%20Reality&fontSize=25" />
 </p>
+
+
+<br />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+‌
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+</p>
+‌
+<p align="center">
+<font color="#0e75b6"><b>Made with 💻 and ☕ by Poria</b></font>
+</p>
