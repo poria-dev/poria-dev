@@ -58,8 +58,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Front-End%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-
-markdown
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5bmZ3bmZ6Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
 </p>
