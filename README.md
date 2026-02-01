@@ -30,6 +30,5 @@
   </li>
 </ul>
 </div>
-https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer
-
+<p>https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"</p>
 
