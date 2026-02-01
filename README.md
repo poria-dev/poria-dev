@@ -36,14 +36,6 @@ p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=console.log(%22See+you+next+commit!%22);UI%2FUX+is+the+soul+of+code;Keep+building+the+future...">
 </p>
-‌
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=10&section=footer" width="60%" />
-</p>
-
-‌
-(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257493-571aa1ed-29e2-4113-942f-871d3c1d9310.gif" width="150">
