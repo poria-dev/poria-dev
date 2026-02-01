@@ -30,8 +30,6 @@
   </li>
 </ul>
 </div>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn">
-</p>
+https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer
 
 
