@@ -30,5 +30,7 @@
   </li>
 </ul>
 </div>
-<p>https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"/
+</p>
 
