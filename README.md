@@ -36,4 +36,8 @@
 <br>
 <b>Thanks for visiting!</b>
 </p>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
+<br>
+<sub>Last updated on: 2026</sub>
+</p>
