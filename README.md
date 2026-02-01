@@ -50,3 +50,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=10&section=footer" width="60%" />
 </p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1d00d6c9.gif" width="100%" />
+</p>
+‌
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=100&section=footer&text=Turning%20Ideas%20Into%20Reality&fontSize=25" />
+</p>
