@@ -41,3 +41,12 @@
 <br>
 <sub>Last updated on: 2026</sub>
 </p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=console.log(%22See+you+next+commit!%22);UI%2FUX+is+the+soul+of+code;Keep+building+the+future...">
+</p>
+‌
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=10&section=footer" width="60%" />
+</p>
