@@ -67,9 +67,11 @@
 <div align="center" style="font-family: Arial, sans-serif; font-size: 13px; color: #e0e0e0;">
   <strong style="color: #00ff9d; font-size: 15px;">Pooria Rezaee</strong> • Frontend Developer<br>
   Building modern web experiences with JS, CSS ✨<br><br>
+  <div align="center">
   <a href="mailto:pooriarezaee.dev@gmail.com" style="color: #00d4ff;">📧 pooriarezaee.dev@gmail.com</a><br>
   <a href="https://github.com/USERNAME" style="color: #00d4ff;">🐱‍💻 GitHub</a> • 
   <a href="https://poria.dev" style="color: #00d4ff;">🌐 Portfolio</a> • 
+</div>
 </div>
 
 
