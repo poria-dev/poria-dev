@@ -50,17 +50,32 @@
 [![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
 [![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/po.or.ia1_0)
 [![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230A66C2&size=32)](https://linkedin.com/in/yourusername)
+<hr/>
+  
 <br/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=console.log(%22See+you+next+commit!%22);UI%2FUX+is+the+soul+of+code;Keep+building+the+future...">
 </p>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Poria%20Front-end%20Dev&fontSize=50" />
+</p
+
+
+
+<div style="font-family: Arial, sans-serif; font-size: 13px; color: #e0e0e0;">
+  <strong style="color: #00ff9d; font-size: 15px;">Pooria Rezaee</strong> • Frontend Developer<br>
+  Building modern web experiences with JS, CSS ✨<br><br>
+  <a href="mailto:pooriarezaee.dev@gmail.com" style="color: #00d4ff;">📧 pooriarezaee.dev@gmail.com</a><br>
+  <a href="https://github.com/USERNAME" style="color: #00d4ff;">🐱‍💻 GitHub</a> • 
+  <a href="https://poria.dev" style="color: #00d4ff;">🌐 Portfolio</a> • 
+</div>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257493-571aa1ed-29e2-4113-942f-871d3c1d9310.gif" width="150">
 <br>
 <b>Thanks for visiting!</b>
 </
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Poria%20Front-end%20Dev&fontSize=50" />
-</p
 
