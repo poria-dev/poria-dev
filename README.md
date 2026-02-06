@@ -14,10 +14,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poria;Front-End+Developer;UI/UX+Enthusiast;Welcome+to+my+Profile!+🚀">
 </p
-
+<div align="center">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poria-dev&label=Profile%20Views&color=ff25b4&style=for-the-badge&logo=starship" alt="profile views" />
 </p>
+</div>
 
 
   <p align="center">
