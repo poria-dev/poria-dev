@@ -16,7 +16,7 @@
 </p
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=poria-dev&label=Profile%20Views&icon=heart&pretty=true&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=poria-dev&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=starship" alt="profile views" />
 </p>
 
   <p align="center">
