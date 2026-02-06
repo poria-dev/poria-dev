@@ -16,7 +16,7 @@
 </p
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poria-dev&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=starship" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=poria-dev&label=Profile%20Views&color=ff89b4&style=for-the-badge&logo=starship" alt="profile views" />
 </p>
 
 
