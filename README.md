@@ -45,14 +45,9 @@
   <li> 🌱 I’m currently learning JavaScript </li>
   
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
-
-  <li> 
-     📫 How to reach me:
-    <a href="mailto:pooriarezaee.dev@gmail.com">pooriarezaee.dev@gmail.com</a>
-       
-  </li>
 </ul>
 </div>
+
 
 [![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
 [![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/po.or.ia1_0)
@@ -81,15 +76,8 @@
 </p
 
 <br><br>
-  <div align="center">
-  <a href="mailto:pooriarezaee.dev@gmail.com" style="color: #00d4ff;">📧 pooriarezaee.dev@gmail.com</a><br>
-  <a href="https://github.com/USERNAME" style="color: #00d4ff;">🐱‍💻 GitHub</a> • 
-  <a href="https://poria.dev" style="color: #00d4ff;">🌐 Portfolio</a> • 
-</div>
 </div>
 
-<br/>
-<br/>
 
 <div align="center" style="margin: 50px 0; padding: 30px; background: #000000; border-radius: 24px; box-shadow: 0 0 70px rgba(0, 170, 255, 0.4), inset 0 0 40px rgba(0, 0, 0, 0.9);">
 
@@ -158,6 +146,14 @@
 <br>
 <b>Thanks for visiting!</b>
 </
+
+<br/>
+<div align="center">
+    <a href="tel:+989939283120"><img src="https://img.shields.io/badge/Phone-989939283120-00FF00?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a>
+    <a href="mailto:poriarezaee.dev@gmail.com"><img src="https://img.shields.io/badge/Email-pooriarezaee.dev%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+    <a href="https://t.me/pori_07"><img src="https://img.shields.io/badge/Telegram-@pori_07-00FF00?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
+  </div>
+
 
 
 
