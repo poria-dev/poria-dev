@@ -21,9 +21,8 @@
 </div>
 
 
-  <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
-</p
+  
+![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
 <br/>
 <div>
   <h2>My Skills </h2>
@@ -153,9 +152,6 @@
     <a href="mailto:poriarezaee.dev@gmail.com"><img src="https://img.shields.io/badge/Email-pooriarezaee.dev%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
     <a href="https://t.me/pori_07"><img src="https://img.shields.io/badge/Telegram-@pori_07-00FF00?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
   </div>
-
-
-
 
 
 
