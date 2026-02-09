@@ -61,7 +61,7 @@
   <a href="https://github.com/poria-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://wa.me/98939283120">
+  <a href="https://wa.me/09939283120">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:pooriarezaee.dev@gmail.com">
