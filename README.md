@@ -46,7 +46,9 @@
   <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
 </ul>
 </div>
-
+<hr/>
+<hr/>
+<h4>Connect with Me 🚀⚡💥🔥🌌</h4>
 
 [![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
 [![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/po.or.ia1_0)
