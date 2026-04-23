@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pooria%20Rezaee&fontSize=75&fontAlignY=60&animation=twinkling&fontColor=000000&customColor=%2300ff9d,%2300d4ff"
     alt="Pooria Rezaee"
