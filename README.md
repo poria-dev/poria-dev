@@ -39,7 +39,7 @@
 <div>
 <h3>🚀 About Me</h3>
 <ul>
-  <li> 🔭 I’m currently working on improving my HTML, CSS skills.</li>
+  <li> 🔭 I’m currently working on improving my HTML CSS skills.</li>
   
   <li> 🌱 I’m currently learning JavaScript </li>
   
