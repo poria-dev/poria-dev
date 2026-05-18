@@ -5,6 +5,7 @@
   />
 </div>
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=poria-dev&theme=radical&column=4&no-frame=true)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poria;Front-End+Developer;UI/UX+Enthusiast;Welcome+to+my+Profile!+🚀">
