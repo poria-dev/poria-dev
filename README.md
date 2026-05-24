@@ -191,7 +191,7 @@
 ## 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <!-- کارت عریض و اصلی (بالا) -->
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poria-dev&theme=radical" alt="Profile Details" width="98%" />
   
   <br><br>
