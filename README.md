@@ -196,7 +196,6 @@
   
   <br><br>
 
-  <!-- سه کارت مربعی در یک ردیف (سایز ۳۲ درصد برای جا شدن کنار هم) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poria-dev&theme=radical" alt="Stats" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poria-dev&theme=radical" alt="Repos per Language" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poria-dev&theme=radical" alt="Most Commit Language" width="32%" />
