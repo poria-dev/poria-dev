@@ -41,7 +41,7 @@
   
   <li> 🌱 I’m currently learning JavaScript </li>
   
-  <li> 💬 Ask me about Frontend basics, I'm happy to help!</li>
+  <li> 💬 Ask me about Frontend basics, I'm happy to help.!</li>
 </ul>
 </div>
 <hr/>
