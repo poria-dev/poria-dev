@@ -8,8 +8,10 @@
 
   
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poria-dev&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophy" width="98%">
+  <img src="https://github-profile-trophy.vercel.app/?username=poria-dev&theme=radical&no-frame=true&no-bg=true&column=8&row=1&margin-w=0&margin-h=0&v=999" alt="Trophies" width="100%">
 </div>
+
+---
 
 
 <p align="center">
