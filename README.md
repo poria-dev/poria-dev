@@ -6,7 +6,10 @@
 </div>
 
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=poria-dev&theme=radical&column=4&no-frame=true)
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poria-dev&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophy" width="98%">
+</div>
 
 
 <p align="center">
@@ -152,6 +155,12 @@
     <a href="mailto:poriarezaee.dev@gmail.com"><img src="https://img.shields.io/badge/Email-pooriarezaee.dev%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
     <a href="https://t.me/pori_07"><img src="https://img.shields.io/badge/Telegram-@pori_07-00FF00?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
   </div>
+
+
+
+
+
+
 
 
 
