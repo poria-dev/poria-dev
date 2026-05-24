@@ -186,3 +186,25 @@
 
 
 
+<br>
+
+## 📊 GitHub Analytics & Stats
+
+<div align="center">
+  <!-- کارت عریض و اصلی (بالا) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poria-dev&theme=radical" alt="Profile Details" width="98%" />
+  
+  <br><br>
+
+  <!-- سه کارت مربعی در یک ردیف (سایز ۳۲ درصد برای جا شدن کنار هم) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poria-dev&theme=radical" alt="Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poria-dev&theme=radical" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poria-dev&theme=radical" alt="Most Commit Language" width="32%" />
+</div>
+
+<br>
+
+
+
+
+
