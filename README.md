@@ -32,10 +32,29 @@
     <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Building+with+HTML5;Styling+with+CSS3;Coding+in+JavaScript;Mastering+React.js">
 </p>
-  <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=HTML%20|%20CSS%20|%20JavaScript&fontSize=30&animation=fadeIn">
-</p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,github,,vsc," alt="languages"/>
+
+
+
+
+<br>
+
+<!-- بخش اول: زبان‌ها، فریم‌ورک‌ها و ابزارهای اصلی (۲ ردیف ۷تایی منظم) -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap,git,github,gitlab,vscode&theme=dark&perline=7" alt="Core Skills" />
+  </a>
+</div>
+
+<br>
+<!-- بخش دوم: کتابخونه‌های خاص (انیمیشن و اسلایدر) -->
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/swiper/6332F6" width="55" alt="Swiper" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/gsap/88CE02" width="55" alt="GSAP" style="margin: 0 15px;">
+</div>
+
+<br>
+
   <br/>
 </div>
 <hr/>
