@@ -6,7 +6,11 @@
 </div>
 
 
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=یوزرنیم_شما&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poria-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="poria-dev stats" />
+</p>
 
 ----
 
