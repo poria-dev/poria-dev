@@ -113,38 +113,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 </div>
 
 
-<div align="center" style="margin: 50px 0; padding: 30px; background: #000000; border-radius: 24px; box-shadow: 0 0 70px rgba(0, 170, 255, 0.4), inset 0 0 40px rgba(0, 0, 0, 0.9);">
-
-  <h3 style="color: #00aaff; text-shadow: 0 0 20px #00aaff, 0 0 40px #0099ff; letter-spacing: 4px; margin-bottom: 30px; font-family: monospace;">
-    NEON PAC-MAN GRID
-  </h3>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg">
-    <img 
-      alt="Pac-Man eating contributions" 
-      src="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg" 
-      width="100%" 
-      style="
-        max-width: 900px;
-        border-radius: 16px;
-        background: #000000 !important;
-        box-shadow: 
-          0 0 50px #00aaff,
-          0 0 100px #00aaff,
-          0 0 150px #0099ff,
-          inset 0 0 40px rgba(0, 85, 170, 0.4);
-        filter: brightness(1.1) contrast(1.05);
-      "
-    />
-  </picture>
-
-
-
-</div>
-
-
 
 <div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, #0a001f, #000814); border-radius: 24px; box-shadow: 0 0 70px rgba(0, 255, 255, 0.5), inset 0 0 40px rgba(0, 0, 0, 0.8);">
 <div align="center" style="margin: 60px 0; padding: 40px; background: linear-gradient(135deg, #0d001a, #000000); border-radius: 20px; box-shadow: 0 0 80px rgba(0, 255, 255, 0.4), inset 0 0 50px rgba(0, 0, 0, 0.9);">
@@ -189,6 +157,39 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poria-dev&theme=radical" alt="Repos per Language" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poria-dev&theme=radical" alt="Most Commit Language" width="32%" />
 </div>
+
+<div align="center" style="margin: 50px 0; padding: 30px; background: #000000; border-radius: 24px; box-shadow: 0 0 70px rgba(0, 170, 255, 0.4), inset 0 0 40px rgba(0, 0, 0, 0.9);">
+
+  <h3 style="color: #00aaff; text-shadow: 0 0 20px #00aaff, 0 0 40px #0099ff; letter-spacing: 4px; margin-bottom: 30px; font-family: monospace;">
+    NEON PAC-MAN GRID
+  </h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg">
+    <img 
+      alt="Pac-Man eating contributions" 
+      src="https://raw.githubusercontent.com/poria-dev/poria-dev/output/pacman-contribution-graph.svg" 
+      width="100%" 
+      style="
+        max-width: 900px;
+        border-radius: 16px;
+        background: #000000 !important;
+        box-shadow: 
+          0 0 50px #00aaff,
+          0 0 100px #00aaff,
+          0 0 150px #0099ff,
+          inset 0 0 40px rgba(0, 85, 170, 0.4);
+        filter: brightness(1.1) contrast(1.05);
+      "
+    />
+  </picture>
+
+
+
+</div>
+
+
 
 <br>
 
@@ -239,3 +240,8 @@ If my projects inspire or help you, consider giving them a **⭐** and following
 </div>
 
 ---
+
+
+
+
+
