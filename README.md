@@ -78,9 +78,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 <hr/>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Let's+Connect...;Always+Open+To+Collaborate"/>
-</p>
 
 
 
