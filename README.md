@@ -76,7 +76,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 
 
 <hr/>
-<hr/>
 
 
 <p align="center">
@@ -91,6 +90,37 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3a2k4YzBrb2VqMWx4Y2QzN2Y0bDBrZ2NqcmxjZWN5a3E1dDV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="35">
 </h2>
 
+
+<p align="center">
+  <a href="https://github.com/poria-dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="52" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/pooria-rezaee/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="52" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://t.me/pori_07" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/white" width="52" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/po.or.ia1_0" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/white" width="52" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://wa.me/989939283120" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/white" width="52" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:pooriarezaee.dev@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/white" width="52" alt="Gmail"/>
+  </a>
+</p>
 
 
   
@@ -187,14 +217,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 <br>
 
 
-
-
-
-
-
-
-
----
 
 ---
 
