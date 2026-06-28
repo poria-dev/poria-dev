@@ -107,7 +107,7 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/po.or.ia1_0" target="_blank">
+  <a href="https://instagram.com/poria.frontend" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/white" width="52" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
