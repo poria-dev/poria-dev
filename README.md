@@ -195,47 +195,40 @@
 
 ---
 
+---
+
 <div align="center">
 
-<img src="./assets/portfolio-banner.png" width="100%" alt="Poria Rezaee | Front-End Developer"/>
+<img src="./file_00000000872872308a595258701f4046.png" width="100%" alt="Poria Rezaee | Front-End Developer"/>
 
-# Thanks for stopping by 👋
+# Thanks for Stopping By 👋
 
 ### Building modern, responsive, and high-performance web experiences.
 
-I'm **Poria Rezaee**, a Front-End Developer passionate about creating clean, scalable, and user-focused applications using modern web technologies.
+I'm **Poria Rezaee**, a Front-End Developer passionate about crafting clean, scalable, and user-focused applications with modern web technologies.
 
 <br>
 
-**⚡ Clean Code** • **🎨 Pixel Perfect UI** • **🚀 Performance** • **♿ Accessibility** • **📱 Responsive Design**
+⚡ **Clean Code** • 🎨 **Pixel Perfect UI** • 🚀 **Performance** • 📱 **Responsive Design** • ♿ **Accessibility**
 
 <br>
 
-> **"Every line of code should create value, not just functionality."**
+> *"Every line of code should create value, not just functionality."*
 
 <br>
 
-### ⭐ Enjoyed my work?
+### ⭐ Like what you see?
 
-If you found something useful or inspiring, consider giving my repositories a ⭐ and following my journey on GitHub.
+If my projects inspire or help you, consider giving them a **⭐** and following me on GitHub.
 
-<p>
 <a href="https://github.com/poria-dev">
-<img src="https://img.shields.io/badge/Follow-@poria--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Follow-@poria--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</p>
 
-**Let's build something amazing together. 🚀**
+<br><br>
+
+**Thanks for visiting, and let's build something amazing together. 🚀**
 
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
