@@ -63,15 +63,22 @@
 </div>
 <hr/>
 <div>
-<h3>🚀 About Me</h3>
-<ul>
-  <li> 🔭 I’m currently working on improving my HTML CSS skills.</li>
-  
-  <li> 🌱 I’m currently learning JavaScript </li>
-  
-  <li> 💬 Ask me about Frontend basics, I'm happy to help.!</li>
-</ul>
-</div>
+
+## 👨‍💻 About Me
+
+Hi, I'm **Poria Rezaee** — a passionate Front-End Developer from Iran 🇮🇷.
+
+I enjoy building fast, modern, and responsive web applications with a strong focus on clean code, performance, and user experience.
+
+### 🚀 Currently
+
+- 🔭 Building modern React & Next.js projects
+- 🌱 Learning TypeScript and advanced JavaScript
+- 🎯 Improving UI/UX design and web performance
+- 🤝 Open to Open Source, Freelance, and Remote opportunities
+
+
+
 <hr/>
 <hr/>
 <h4>Connect with Me 🚀⚡💥🔥🌌</h4>
