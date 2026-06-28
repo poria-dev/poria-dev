@@ -144,13 +144,20 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 <div align="center">
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poria-dev&theme=radical" alt="Profile Details" width="98%" />
-  
-  <br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poria-dev&theme=radical" alt="Stats" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poria-dev&theme=radical" alt="Repos per Language" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poria-dev&theme=radical" alt="Most Commit Language" width="32%" />
 </div>
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=poria-dev&theme=radical&hide_border=true" />
+</p>
+
+
+
 
 <div align="center" style="margin: 50px 0; padding: 30px; background: #000000; border-radius: 24px; box-shadow: 0 0 70px rgba(0, 170, 255, 0.4), inset 0 0 40px rgba(0, 0, 0, 0.9);">
 
