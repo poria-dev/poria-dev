@@ -33,10 +33,6 @@
 <br/>
 <div>
   <h2>My Skills </h2>
-    <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Building+with+HTML5;Styling+with+CSS3;Coding+in+JavaScript;Mastering+React.js">
-</p>
-
 
 
 
@@ -100,9 +96,7 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 <hr/>
   
 <br/>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=console.log(%22See+you+next+commit!%22);UI%2FUX+is+the+soul+of+code;Keep+building+the+future...">
-</p>
+
 
 
 <p align="center">
