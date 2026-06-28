@@ -66,12 +66,13 @@ Hi, I'm **Poria Rezaee** — a passionate Front-End Developer from Iran 🇮🇷
 
 I enjoy building fast, modern, and responsive web applications with a strong focus on clean code, performance, and user experience.
 
-### 🚀 Currently
+🚀 Building production-ready React & Next.js applications
 
-- 🔭 Building modern React & Next.js projects
-- 🌱 Learning TypeScript and advanced JavaScript
-- 🎯 Improving UI/UX design and web performance
-- 🤝 Open to Open Source, Freelance, and Remote opportunities
+🌱 Currently mastering TypeScript and modern frontend architecture
+
+💡 Passionate about clean UI, performance and accessibility
+
+🤝 Open to Front-End, Freelance and Open Source opportunities 
 
 
 
@@ -137,33 +138,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 <div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, #0a001f, #000814); border-radius: 24px; box-shadow: 0 0 70px rgba(0, 255, 255, 0.5), inset 0 0 40px rgba(0, 0, 0, 0.8);">
 <div align="center" style="margin: 60px 0; padding: 40px; background: linear-gradient(135deg, #0d001a, #000000); border-radius: 20px; box-shadow: 0 0 80px rgba(0, 255, 255, 0.4), inset 0 0 50px rgba(0, 0, 0, 0.9);">
 
-  <h2 style="color: #00ffff; font-size: 3.2em; margin: 0; text-shadow: 
-    0 0 10px #00ffff,
-    0 0 20px #00ffff,
-    0 0 40px #ff00ff,
-    0 0 60px #ff00ff;
-    letter-spacing: 6px; font-family: monospace; font-weight: bold;">
-    PORIA
-  </h2>
-
-  <h3 style="color: #ff00ff; font-size: 2em; margin: 10px 0 30px 0; text-shadow: 
-    0 0 15px #ff00ff,
-    0 0 30px #00ffff;
-    letter-spacing: 3px;">
-    FRONT-END DEVELOPER
-  </h3>
-
-
-<br/>
-<div align="center">
-    <a href="tel:+989939283120"><img src="https://img.shields.io/badge/Phone-989939283120-00FF00?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a>
-    <a href="mailto:poriarezaee.dev@gmail.com"><img src="https://img.shields.io/badge/Email-pooriarezaee.dev%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
-    <a href="https://t.me/pori_07"><img src="https://img.shields.io/badge/Telegram-@pori_07-00FF00?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
-  </div>
-
-
-
-<br>
 
 ## 📊 GitHub Analytics & Stats
 
@@ -224,8 +198,6 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 # Thanks for Stopping By 👋
 
 ### Building modern, responsive, and high-performance web experiences.
-
-I'm **Poria Rezaee**, a Front-End Developer passionate about crafting clean, scalable, and user-focused applications with modern web technologies.
 
 <br>
 
