@@ -77,23 +77,22 @@ I enjoy building fast, modern, and responsive web applications with a strong foc
 
 <hr/>
 <hr/>
-<h4>Connect with Me 🚀⚡💥🔥🌌</h4>
 
-[![Telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=%230088cc&size=32)](https://t.me/pori_07)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&bg=%23E1306C&size=32)](https://instagram.com/po.or.ia1_0)
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230A66C2&size=32)](https://linkedin.com/in/yourusername)
-   <div>
-  <a href="https://github.com/poria-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/989939283120">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:pooriarezaee.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-<hr/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Let's+Connect...;Always+Open+To+Collaborate"/>
+</p>
+
+
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3a2k4YzBrb2VqMWx4Y2QzN2Y0bDBrZ2NqcmxjZWN5a3E1dDV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="35">
+  Let's Connect
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3a2k4YzBrb2VqMWx4Y2QzN2Y0bDBrZ2NqcmxjZWN5a3E1dDV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="35">
+</h2>
+
+
+
   
 <br/>
 
